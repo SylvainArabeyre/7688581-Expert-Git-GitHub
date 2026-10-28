@@ -8,7 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Installer les bibliothèques nécessaires
+Installer les bibliothèques nécessaires afin de pouvoir utiliser le projet.
 
 ### Installation
 
